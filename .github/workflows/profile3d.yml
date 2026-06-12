@@ -1,0 +1,29 @@
+# Save as: .github/workflows/profile-3d.yml  (in your pxlnstn/pxlnstn repo)
+name: generate 3d contribution graph
+
+on:
+  schedule:
+    - cron: "30 0 * * *" # runs daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-profile-3d-contrib
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshiokatsuneo/profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & push generated SVGs
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated 3d contribution graph" || echo "no changes"
+          git push
