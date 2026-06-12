@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pelin%20Su%20%C3%9Cst%C3%BCn&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Engineering%20Senior&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pelin%20Su%20%C3%9Cst%C3%BCn&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Senior&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Generative+AI+%26+Agentic+Systems+Engineer;RAG+Architecture+%7C+LLM+Applications;Multi-Agent+Orchestration+%7C+Fine-Tuning;Building+Intelligent+Systems+That+Scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Computer+Engineering+Senior;Generative+AI+%7C+RAG+%7C+Multi-Agent+Systems;Fine-Tuning+Transformers+with+PyTorch;Building+Intelligent+Systems+That+Scale" alt="Typing SVG" />
 
 <br/>
 
@@ -15,7 +15,7 @@
 <a href="https://github.com/pxlnstn">
   <img src="https://img.shields.io/badge/Portfolio-Projects-4C1D95?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://www.linkedin.com/in/pelinsuustun">
+<a href="https://www.linkedin.com/in/su-ustun">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:su.ustunnn@gmail.com">
@@ -33,25 +33,25 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
 
 ## 💼 About
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=pxlnstn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=6366F1&text_color=c9d1d9" alt="GitHub Stats"/>
 
-**Computer Engineering senior** specializing in **Generative AI, autonomous agents, and RAG architectures** — engineering LLM-based applications and workflow orchestrations that solve complex, real-world problems.
+**Computer Engineering senior** passionate about **Generative AI, autonomous agents, and RAG architectures** — engineering LLM-based applications and workflow orchestrations that solve complex, real-world problems.
 
 - 🧠 Designing **agentic AI systems** with multi-agent orchestration (CrewAI) and local LLM inference (Ollama)
 - 🔍 Building **RAG pipelines** with vector databases, self-evaluation loops, and hallucination prevention
-- ⚙️ Fine-tuning **transformer models** (BERT / DistilBERT) for production classification workloads
+- ⚙️ Fine-tuning **transformer models** (BERT / DistilBERT) for real-world classification workloads
 - 🌐 Full-stack capable — **React, Flutter, Streamlit, SQL** — with a product engineering mindset
 - 🌱 Driven to apply AI toward **impactful, sustainable global development initiatives**
 
-**Open To:** AI/ML Engineering Roles · LLM Application Development · Research Collaborations · Open Source Contributions
+**Open To:** AI/ML Engineering Internships & Roles · LLM Application Development · Research Collaborations · Open Source Contributions
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
 
 ## 🛠️ Tech Stack
 
@@ -83,7 +83,7 @@
   <img src="https://img.shields.io/badge/Copilot%20Studio-6366F1?style=for-the-badge&logo=microsoft&logoColor=white" alt="Copilot Studio"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
 
 ## 🧠 AI / ML Expertise
 
@@ -96,7 +96,7 @@
 | **NLP** | ███████░░░ | Tokenization, embeddings, semantic search, intent routing |
 | **Distributed Systems** | ██████░░░░ | Fault-tolerant event-driven design in Go, Kafka consumer groups, leader election, state recovery |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
 
 ## 🚀 Featured Projects
 
@@ -176,51 +176,7 @@ A deep learning project classifying **33 car brands** from images using **Convol
 
 </details>
 
----
-
-## 💻 Experience
-
-### Software Development Intern · **Software Persona**
-*January 2026 — February 2026*
-
-Project-based voluntary internship delivering hands-on engineering work across the stack.
-
-- 📱 Built features across **Mobile Development** with Flutter-driven workflows
-- 🎨 Designed and refined **User Interfaces** with modern UX principles
-- 🌐 Contributed to **Web Development** projects end-to-end
-- 🗄️ Worked with **relational databases** — schema design and SQL
-
-`Mobile Development` `UI Design` `Web Development` `Databases` `Agile`
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:-----------:|:--------|
-| 🏫 **İzmir Science High School Alumna** | Graduate of one of Türkiye's most selective science high schools |
-| 🤖 **Live ML Demo Shipped** | Deployed a public fine-tuned model demo on Hugging Face Spaces |
-| 🌍 **Microsoft AI Skills 4 Women** | Selected participant in Microsoft's AI upskilling program |
-| 🗣️ **Trilingual Engineer** | Turkish (Native) · English (C1) · German (A2) |
-
-</div>
-
----
-
-## 📜 Certifications & Programs
-
-### Microsoft
-<img src="https://img.shields.io/badge/AI%20Skills%204%20Women-In%20Progress-6366F1?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/>
-
-### AKBANK
-<img src="https://img.shields.io/badge/Deep%20Learning%20Program-Completed-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Akbank"/>
-
-### YEA Academy
-<img src="https://img.shields.io/badge/AI%20%26%20Programming%20—%206%20Months-Completed-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="YEA"/>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
 
 ## 🌐 Coding Profiles
 
@@ -232,13 +188,13 @@ Project-based voluntary internship delivering hands-on engineering work across t
 <a href="https://huggingface.co/pxlnstn">
   <img src="https://img.shields.io/badge/Hugging%20Face-pxlnstn-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=4C1D95" alt="Hugging Face"/>
 </a>
-<a href="https://www.linkedin.com/in/pelinsuustun">
+<a href="https://www.linkedin.com/in/su-ustun">
   <img src="https://img.shields.io/badge/LinkedIn-Pelin%20Su%20%C3%9Cst%C3%BCn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4C1D95" alt="LinkedIn"/>
 </a>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
 
 ## 📈 GitHub Analytics
 
@@ -251,17 +207,17 @@ Project-based voluntary internship delivering hands-on engineering work across t
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
 
-## 🏅 GitHub Trophies
+## 🏙️ 3D Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pxlnstn&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="Trophies"/>
+<img src="https://raw.githubusercontent.com/pxlnstn/pxlnstn/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
 
 ## 📊 Contribution Activity
 
@@ -271,21 +227,21 @@ Project-based voluntary internship delivering hands-on engineering work across t
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
 
-## 🐍 Contribution Snake
+## 👾 Pac-Man Contribution Graph
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pxlnstn/pxlnstn/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pxlnstn/pxlnstn/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/pxlnstn/pxlnstn/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pxlnstn/pxlnstn/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pxlnstn/pxlnstn/output/pacman-contribution-graph.svg"/>
+  <img src="https://raw.githubusercontent.com/pxlnstn/pxlnstn/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man Contribution Graph"/>
 </picture>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
 
 ## 🎯 Current Focus
 
@@ -304,13 +260,13 @@ exploring:
   - Distributed systems & event-driven architectures
 
 open_to:
-  - AI / ML Engineering Roles
+  - AI / ML Engineering Internships & Roles
   - LLM Application Development
   - Open Source Collaboration
   - Research Partnerships
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
 
 ## 🤝 Connect
 
@@ -319,7 +275,7 @@ open_to:
 <a href="mailto:su.ustunnn@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-su.ustunnn%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://www.linkedin.com/in/pelinsuustun">
+<a href="https://www.linkedin.com/in/su-ustun">
   <img src="https://img.shields.io/badge/LinkedIn-Pelin%20Su%20%C3%9Cst%C3%BCn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/pxlnstn">
@@ -330,8 +286,6 @@ open_to:
 </a>
 
 </div>
-
----
 
 <div align="center">
 
