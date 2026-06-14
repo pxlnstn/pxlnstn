@@ -33,11 +33,11 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider"/>
 
-## 💼 About
+## ⋆.𐙚 ̊ About Me!
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=pxlnstn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=6366F1&text_color=c9d1d9" alt="GitHub Stats"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/pxlnstn/pxlnstn/main/assets/octocat.png" alt="My Octocat"/>
 
 **Computer Engineering senior** passionate about **Generative AI, autonomous agents, and RAG architectures** — engineering LLM-based applications and workflow orchestrations that solve complex, real-world problems.
 
@@ -51,7 +51,7 @@
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider"/>
 
 ## 🛠️ Tech Stack
 
@@ -83,7 +83,7 @@
   <img src="https://img.shields.io/badge/Copilot%20Studio-6366F1?style=for-the-badge&logo=microsoft&logoColor=white" alt="Copilot Studio"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider"/>
 
 ## 🧠 AI / ML Expertise
 
@@ -96,7 +96,7 @@
 | **NLP** | ███████░░░ | Tokenization, embeddings, semantic search, intent routing |
 | **Distributed Systems** | ██████░░░░ | Fault-tolerant event-driven design in Go, Kafka consumer groups, leader election, state recovery |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider"/>
 
 ## 🚀 Featured Projects
 
@@ -176,7 +176,7 @@ A deep learning project classifying **33 car brands** from images using **Convol
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider"/>
 
 ## 🌐 Coding Profiles
 
@@ -194,7 +194,7 @@ A deep learning project classifying **33 car brands** from images using **Convol
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider"/>
 
 ## 📈 GitHub Analytics
 
@@ -207,29 +207,9 @@ A deep learning project classifying **33 car brands** from images using **Convol
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider"/>
 
-## 🏙️ 3D Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/pxlnstn/pxlnstn/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pxlnstn&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8B5CF6&line=6366F1&point=c9d1d9&area=true&area_color=4C1D95" width="100%" alt="Activity Graph"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
-
-## 👾 Pac-Man Contribution Graph
+## 👾 My little pacman! :)
 
 <div align="center">
 
@@ -241,7 +221,7 @@ A deep learning project classifying **33 car brands** from images using **Convol
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider"/>
 
 ## 🎯 Current Focus
 
@@ -266,7 +246,7 @@ open_to:
   - Research Partnerships
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a42c-11eb-8e0c-3e640a32ddc6.gif" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider"/>
 
 ## 🤝 Connect
 
@@ -288,8 +268,6 @@ open_to:
 </div>
 
 <div align="center">
-
-### *"Building intelligent systems that reason, retrieve, and act — responsibly."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
